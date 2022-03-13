@@ -1,0 +1,27 @@
+body {
+  font-size: 20px;
+  font-weight: bold;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 100px 0;
+}
+.parent {
+  background: cornflowerblue;
+  padding: 20px;
+  position: relative;
+}
+.child-one {
+  background: greenyellow;
+  padding: 20px;
+  position: fixed;
+  top: 0;
+}
+.child-two {
+  background: orangered;
+  padding: 20px;
+}
+.child-three {
+  background: violet;
+  padding: 20px;
+  position: relative;
+}
