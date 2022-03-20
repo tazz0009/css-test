@@ -7,3 +7,4 @@
 1. [Responsive CSS Grid Tutorial](https://www.youtube.com/watch?v=68O6eOGAGqA)
 1. [Create Responsive Admin Dashboard in HTML CSS | Admin Panel  Template](https://www.youtube.com/watch?v=mTZWdzj4IG4)
 1. [Learn CSS Position In 9 Minutes](https://www.youtube.com/watch?v=jx5jmI0UlXU)
+1. [Portfolio Website Tutorial – Frontend Development with HTML, CSS, JavaScript](https://www.youtube.com/watch?v=xV7S8BhIeBo)
